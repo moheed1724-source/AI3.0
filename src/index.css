@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-jicai-dark: #1F2937;
+  --color-jicai-black: #111827;
+  --color-jicai-blue: #2563EB;
+  --color-jicai-white: #FFFFFF;
+  --color-jicai-gray: #F3F4F6;
+  
+  --font-sans: "Inter", "Roboto", ui-sans-serif, system-ui, sans-serif;
+}
